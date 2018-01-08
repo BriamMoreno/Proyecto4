@@ -1,0 +1,58 @@
+.body-fondo{
+  background-image: url(../img/plato01.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-attachment: fixed;
+  width: 100%;
+  height: 100%;
+  position:absolute;
+          }
+
+.banner{
+background-color: rgba(255, 255, 255, 0.4);
+}
+
+.contenido{
+margin-top: 50px;
+}
+.img-m{
+  max-height: 40%;
+  border: 4px solid #fefefe;
+margin-bottom: 30px;
+  }
+
+.paraf{
+text-align: justify;
+margin: 0px 25px 23px 25px;
+}
+
+ul{
+background-color:  rgba(255, 255, 255, 0.4);
+}
+a:hover{
+background-color:  rgba(255, 0, 0, 0.3);
+color: white;
+}
+
+.titulos{
+margin-top: 20px;
+text-align: center;
+}
+
+.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.favoritos{
+width: 60%;
+margin: 15px 25px;
+}
+
+.logo-img{
+  width: 30%;
+}
+
+img{
+  max-height: 129px;
+}
